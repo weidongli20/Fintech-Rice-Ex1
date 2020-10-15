@@ -1,4 +1,3 @@
 # Weidong Li
-I am a data scientist.
-I would like to be a Financial Analyst.
-I like both financial and coding, so I choose FinTech as a career path
+FinTech Developer + Creative Thinker with a background in financial analytics.
+I like both the analysising financial data and coding computer programs, so I choose FinTech as my new career aspiration
